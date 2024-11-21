@@ -1,7 +1,6 @@
 ﻿# Obys-Agency
 # Obys Agency Website
-
-![Project Preview](https://via.placeholder.com/800x400)  
+  
 *A visually captivating, interactive website for Obys Agency, built with modern web development technologies.*
 
 ## 🚀 Features
